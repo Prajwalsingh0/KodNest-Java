@@ -1,6 +1,5 @@
-public class First {
+public class PRINTpg {
     public static void main(String[] args) {
-       //Write your code here
        System.out.println("Hello Kodnest");
     }
 }

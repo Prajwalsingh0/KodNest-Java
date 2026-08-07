@@ -1,31 +1,14 @@
 import java.util.Scanner;
-
-public class Forth {
+public class ELIFpg {
 
 	public static void main(String[] args) {
-
-		Scanner scan = new Scanner(System.in);
-
+	Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the number : ");
-
 		int num = scan.nextInt();
-
-		if(num > 0)
-
-		{
-
+		if(num > 0){
 			System.out.println("Positive number");
-
-		}
-
-		else
-
-		{
-
+		}else{
 			System.out.println("Negative number ");
-
 		}
-
 	}
-
 }

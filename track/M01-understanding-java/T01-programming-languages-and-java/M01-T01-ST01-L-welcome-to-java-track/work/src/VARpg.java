@@ -1,4 +1,4 @@
-public class Third {
+public class VARpg {
     public static void main(String[] args) {
         int solvedProblems = 47;
         int practiceDays = 5;
